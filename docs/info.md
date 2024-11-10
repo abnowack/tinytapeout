@@ -18,4 +18,4 @@ The 8 output pins should output a pseudo random 8 bit number, about once per sec
 
 ## External hardware
 
-The 8 output pins can be connected to LEDs
+The 8 output pins can be connected to LEDs.
